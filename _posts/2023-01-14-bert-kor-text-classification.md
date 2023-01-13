@@ -16,7 +16,7 @@ typora-copy-images-to: ../images/2023-01-13
 
 사전 학습 모델은 https://huggingface.co/kykim/bert-kor-base 에서 확인할 수 있습니다.
 
-또한, 김기영님께서 YouTube에 [자연어처리 기초 강의](https://www.youtube.com/watch?v=Z201jwWo-xs&list=PLrLEKGJAgXxL-R9IqDH7HANWXRsS900tF)도 업로드 해주셨습니다. 한 번 들어보시면 유익하실 만한 내용이 많습니다!
+또한, 김기영님께서 YouTube에 [자연어처리 기초 강의](https://ae04.alicdn.com/kf/S644a66dca64e4403bafe5835c0c21320I.jpg)도 업로드 해주셨습니다. 한 번 들어보시면 유익하실 만한 내용이 많습니다!
 
 
 
