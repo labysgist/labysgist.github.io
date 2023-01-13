@@ -100,12 +100,10 @@ typora-copy-images-to: ../images/2023-01-13
 
 
 ```python
-import os
-import numpy as np
-import torch
-import torch.nn as nn
-import torch.optim as optim
-import torch.nn.functional as F
+
+![mentoring](https://ae04.alicdn.com/kf/S644a66dca64e4403bafe5835c0c21320I.jpg)
+
+entahlah 
 
 # 한글 자연어 처리 데이터셋
 from Korpora import Korpora
